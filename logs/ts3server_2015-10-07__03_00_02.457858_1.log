@@ -1,0 +1,7 @@
+2015-10-07 03:00:05.077144|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-10-07 16:36:38.666820|INFO    |VirtualServer |  1| client (id:507) was added to servergroup 'ServerAdmin'(id:9) by client '&#12483;k1d'(id:4)
+2015-10-07 16:36:43.230335|INFO    |VirtualServer |  1| client (id:507) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2015-10-07 16:36:47.226227|INFO    |VirtualServer |  1| client (id:507) was removed from servergroup 'ServerAdmin'(id:9) by client '&#12483;k1d'(id:4)
+2015-10-07 16:40:29.811288|INFO    |VirtualServer |  1| client (id:508) was added to servergroup 'Female'(id:11) by client '&#12483;k1d'(id:4)
+2015-10-08 00:29:59.496410|INFO    |VirtualServer |  1| client (id:510) was added to servergroup 'ServerAdmin'(id:9) by client 'basti'(id:2)
+2015-10-08 03:00:02.263885|INFO    |VirtualServerBase|  1| stopped

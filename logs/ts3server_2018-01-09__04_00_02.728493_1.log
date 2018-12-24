@@ -1,0 +1,7 @@
+﻿2018-01-09 04:00:07.548044|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-01-09 19:02:48.560359|INFO    |VirtualServer |1  |client (id:1296) was added to servergroup 'Male'(id:10) by client 'TschanStar'(id:1235)
+2018-01-09 19:02:51.566513|INFO    |VirtualServer |1  |client (id:1287) was added to servergroup 'Male'(id:10) by client 'TschanStar'(id:1235)
+2018-01-09 20:17:18.136959|INFO    |VirtualServer |1  |client 'Boufur/Tobi'(id:1308) was added to channelgroup 'Voice'(id:7) by client 'ichnichtdu/stefan1'(id:1184) in channel '┌ Trashtalk'(id:53)
+2018-01-09 20:17:25.981322|INFO    |VirtualServer |1  |client (id:1308) was added to servergroup 'Male'(id:10) by client 'ichnichtdu/stefan1'(id:1184)
+2018-01-09 20:17:37.953769|INFO    |VirtualServer |1  |client 'Boufur/Tobi'(id:1308) was added to channelgroup 'Guest'(id:8) by client 'ichnichtdu/stefan1'(id:1184) in channel '┌ Trashtalk'(id:53)
+2018-01-10 04:00:01.293316|INFO    |VirtualServerBase|1  |stopped

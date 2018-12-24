@@ -1,0 +1,5 @@
+2015-03-29 03:00:04.836259|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-03-29 09:51:34.374919|INFO    |VirtualServer |  1| client (id:320) was added to servergroup 'Male'(id:10) by client 'basti'(id:2)
+2015-03-29 17:48:19.258604|INFO    |VirtualServer |  1| client (id:333) was added to servergroup 'Male'(id:10) by client 'Shin Tschan'(id:6)
+2015-03-29 17:48:28.785498|INFO    |VirtualServer |  1| client (id:335) was added to servergroup 'Female'(id:11) by client 'Shin Tschan'(id:6)
+2015-03-30 03:00:01.287417|INFO    |VirtualServerBase|  1| stopped

@@ -1,0 +1,4 @@
+﻿2016-05-05 03:00:06.407035|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-05-05 21:30:26.934990|INFO    |VirtualServer |1  |client (id:493) was removed from servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2016-05-05 21:30:30.892043|INFO    |VirtualServer |1  |client (id:493) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2016-05-06 03:00:01.706129|INFO    |VirtualServerBase|1  |stopped

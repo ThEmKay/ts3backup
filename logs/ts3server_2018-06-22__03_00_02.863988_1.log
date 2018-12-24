@@ -1,0 +1,4 @@
+﻿2018-06-22 03:00:06.797541|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-06-22 12:25:05.455753|INFO    |VirtualServer |1  |client 'Sunny'(id:524) was added to channelgroup 'Operator'(id:6) by client 'TschanStar'(id:1235) in channel '٠••● Counter Strike'(id:14)
+2018-06-22 12:25:33.748001|INFO    |VirtualServer |1  |client 'TschanStar'(id:1235) was added to channelgroup 'Operator'(id:6) by client 'TschanStar'(id:1235) in channel '╚ Ranked'(id:18)
+2018-06-23 03:00:01.859036|INFO    |VirtualServerBase|1  |stopped

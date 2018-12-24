@@ -1,0 +1,20 @@
+﻿2016-04-30 03:00:02.796228|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.3 (2016-03-04 08:31:20)
+2016-04-30 03:00:02.796378|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-43-pve #1 SMP Tue Oct 27 09:55:55 CET 2015 x86_64 Binary: 64bit
+2016-04-30 03:00:02.796424|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2016-04-30 03:00:02.797383|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-04-30 03:00:02.797428|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2016-04-30 03:00:02.797669|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2016-04-30 03:00:02.815990|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2016-04-30 03:00:08.091240|INFO    |              |   |Puzzle precompute time: 5186
+2016-04-30 03:00:08.091620|INFO    |FileManager   |   |listening on 0.0.0.0:30033
+2016-04-30 03:00:08.122963|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1, 
+2016-04-30 03:00:08.123429|INFO    |Query         |   |listening on 0.0.0.0:10011
+2016-04-30 16:06:32.146566|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-04-30 16:16:34.097883|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-04-30 16:26:36.137321|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-04-30 16:46:32.335009|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-04-30 16:56:34.089872|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-04-30 17:06:36.120314|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2016-05-01 00:00:02.917066|INFO    |VirtualSvrMgr |   |executing monthly interval
+2016-05-01 00:00:02.917333|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2016-05-01 03:00:01.433440|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

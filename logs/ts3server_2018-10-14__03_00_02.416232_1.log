@@ -1,0 +1,4 @@
+﻿2018-10-14 03:00:06.074752|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-14 18:05:30.127577|INFO    |VirtualServer |1  |client (id:1720) was added to servergroup 'Female'(id:11) by client 'Basti'(id:591)
+2018-10-14 19:28:59.658273|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-15 03:00:01.067914|INFO    |VirtualServerBase|1  |stopped

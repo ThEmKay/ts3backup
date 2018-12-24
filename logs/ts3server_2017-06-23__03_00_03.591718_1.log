@@ -1,0 +1,7 @@
+﻿2017-06-23 03:00:07.551544|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-06-23 17:06:36.287325|INFO    |VirtualServer |1  |client (id:1120) was added to servergroup 'Female'(id:11) by client 'Sinax'(id:755)
+2017-06-23 17:07:12.950641|INFO    |VirtualServer |1  |client (id:1120) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-06-23 21:09:32.360155|INFO    |VirtualServer |1  |client (id:1121) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-06-23 21:09:37.366898|INFO    |VirtualServer |1  |client (id:1124) was added to servergroup 'Female'(id:11) by client 'Sinax'(id:755)
+2017-06-23 23:10:33.281743|INFO    |VirtualServer |1  |client (id:1127) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-06-24 03:00:01.152259|INFO    |VirtualServerBase|1  |stopped

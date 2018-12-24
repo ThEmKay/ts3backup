@@ -1,0 +1,6 @@
+2015-08-22 03:00:05.838883|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-08-22 23:43:59.682953|INFO    |VirtualServer |  1| client 'nadinee'(id:463) was added to channelgroup 'Channel Admin'(id:5) by client '&#12483;k1d'(id:4) in channel '&#9484; Lounge I'(id:21)
+2015-08-22 23:44:07.797867|INFO    |VirtualServer |  1| client (id:463) was added to servergroup 'ServerAdmin'(id:9) by client '&#12483;k1d'(id:4)
+2015-08-22 23:44:13.759295|INFO    |VirtualServer |  1| client 'nadinee'(id:463) was added to channelgroup 'Guest'(id:8) by client '&#12483;k1d'(id:4) in channel '&#9484; Lounge I'(id:21)
+2015-08-23 00:09:51.553923|INFO    |VirtualServer |  1| client (id:463) was removed from servergroup 'ServerAdmin'(id:9) by client '&#12483;k1d'(id:4)
+2015-08-23 03:00:01.423995|INFO    |VirtualServerBase|  1| stopped

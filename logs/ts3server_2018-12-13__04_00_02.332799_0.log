@@ -1,0 +1,20 @@
+﻿2018-12-13 04:00:02.332899|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.3.0 (2018-07-31 16:10:01)
+2018-12-13 04:00:02.333027|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2018-12-13 04:00:02.333055|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2018-12-13 04:00:02.333821|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-12-13 04:00:02.333850|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-12-13 04:00:02.334079|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-12-13 04:00:02.379304|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-12-13 04:00:02.379525|INFO    |Accounting    |   |Licensing Information
+2018-12-13 04:00:02.379550|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-12-13 04:00:02.379572|INFO    |Accounting    |   |type              : No License
+2018-12-13 04:00:02.379598|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-12-13 04:00:02.379616|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-12-13 04:00:02.379631|INFO    |Accounting    |   |max virtualservers: 1
+2018-12-13 04:00:02.379646|INFO    |Accounting    |   |max slots         : 32
+2018-12-13 04:00:02.466757|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-12-13 04:00:06.281965|INFO    |              |   |Puzzle precompute time: 3737
+2018-12-13 04:00:06.282441|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-12-13 04:00:06.351384|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-12-13 04:00:06.351488|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, 
+2018-12-14 04:00:01.965326|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

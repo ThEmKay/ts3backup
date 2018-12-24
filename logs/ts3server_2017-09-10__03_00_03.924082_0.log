@@ -1,0 +1,17 @@
+﻿2017-09-10 03:00:03.924226|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.3 (2016-03-04 08:31:20)
+2017-09-10 03:00:03.924336|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2017-09-10 03:00:03.924365|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2017-09-10 03:00:03.925077|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-09-10 03:00:03.925107|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2017-09-10 03:00:03.925284|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-09-10 03:00:03.944580|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-09-10 03:00:08.756966|INFO    |              |   |Puzzle precompute time: 4702
+2017-09-10 03:00:08.757311|INFO    |FileManager   |   |listening on 0.0.0.0:30033
+2017-09-10 03:00:08.783160|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1, 
+2017-09-10 03:00:08.783496|INFO    |Query         |   |listening on 0.0.0.0:10011
+2017-09-10 13:16:32.112333|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-09-10 13:26:34.093245|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-09-10 13:46:30.907404|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-09-10 13:56:32.161388|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-09-10 14:06:34.115262|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2017-09-11 03:00:01.667469|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

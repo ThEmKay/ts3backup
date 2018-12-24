@@ -1,0 +1,11 @@
+﻿2016-12-27 04:00:07.933888|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-12-27 20:24:54.402617|INFO    |VirtualServer |1  |client (id:993) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2016-12-27 20:44:11.553801|INFO    |VirtualServer |1  |client (id:993) was added to servergroup 'ServerAdmin'(id:9) by client 'server'(id:0)
+2016-12-27 20:44:11.555235|INFO    |VirtualServer |1  |client 'k1d'(id:993) used privilege key 'VHrmLdbmpWWhMr1sCWNHdTTfSaSpXOMWHx0PFPg4' and was added to servergroup 'ServerAdmin'(id:9)
+2016-12-27 20:44:30.244683|INFO    |VirtualServer |1  |client 'k1d'(id:993) added privilege key for servergroup 'ServerAdmin'(id:9)
+2016-12-27 20:46:06.345527|INFO    |VirtualServer |1  |client (id:4) was removed from servergroup 'ServerAdmin'(id:9) by client 'k1d'(id:993)
+2016-12-27 20:59:55.610090|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'ServerAdmin'(id:9) by client 'server'(id:0)
+2016-12-27 20:59:55.612417|INFO    |VirtualServer |1  |client 'ッk1d'(id:4) used privilege key 'BxvkBZLjdcqCvEtscEoJvqwJA1VWAqfE3dEPN6nn' and was added to servergroup 'ServerAdmin'(id:9)
+2016-12-27 21:00:19.940584|INFO    |VirtualServer |1  |client (id:993) was removed from servergroup 'ServerAdmin'(id:9) by client 'ッk1d'(id:4)
+2016-12-27 21:00:48.086380|INFO    |VirtualServer |1  |client 'ッk1d'(id:4) added privilege key for servergroup 'ServerAdmin'(id:9)
+2016-12-28 04:00:01.867281|INFO    |VirtualServerBase|1  |stopped

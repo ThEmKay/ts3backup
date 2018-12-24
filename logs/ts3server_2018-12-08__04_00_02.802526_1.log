@@ -1,0 +1,9 @@
+﻿2018-12-08 04:00:07.178982|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-08 13:56:52.867710|INFO    |VirtualServer |1  |client 'NeVox'(id:1256) added privilege key for servergroup 'ServerAdmin'(id:9)
+2018-12-08 14:08:30.181603|INFO    |VirtualServer |1  |client (id:1808) was added to servergroup 'ServerAdmin'(id:9) by client 'server'(id:0)
+2018-12-08 14:08:30.182370|INFO    |VirtualServer |1  |client 'NeVoX'(id:1808) used privilege key 'NvBObi0OfcugG6QjKjsoqa1B27ALn18A1RyGmReb' and was added to servergroup 'ServerAdmin'(id:9)
+2018-12-08 14:08:37.061298|INFO    |VirtualServer |1  |client (id:1808) was added to servergroup 'Male'(id:10) by client 'NeVoX'(id:1808)
+2018-12-08 14:12:03.815453|INFO    |VirtualServer |1  |client 'NeVoX'(id:1808) added privilege key for servergroup 'Gast'(id:8)
+2018-12-08 14:32:34.407017|INFO    |VirtualServer |1  |client (id:1809) was added to servergroup 'Male'(id:10) by client 'NeVoX'(id:1808)
+2018-12-08 14:45:05.037814|INFO    |VirtualServer |1  |client (id:1293) was added to servergroup 'Offizier'(id:6) by client 'NeVoX'(id:1808)
+2018-12-09 04:00:01.904388|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,9 @@
+2016-03-20 04:00:06.735959|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-03-20 13:49:13.787179|INFO    |VirtualServer |  1| client (id:629) was added to servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-03-20 13:49:40.112165|INFO    |VirtualServer |  1| client (id:629) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-03-20 14:48:19.244084|INFO    |VirtualServer |  1| client (id:670) was added to servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-03-20 14:48:30.545678|INFO    |VirtualServer |  1| client (id:670) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-03-20 14:48:33.658878|INFO    |VirtualServer |  1| client (id:670) was removed from servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-03-20 15:18:20.796543|INFO    |VirtualServer |  1| client (id:677) was removed from servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-03-20 15:18:45.266131|INFO    |VirtualServer |  1| client (id:677) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-03-20 20:22:37.845208|INFO    |VirtualServer |  1| client (id:706) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)

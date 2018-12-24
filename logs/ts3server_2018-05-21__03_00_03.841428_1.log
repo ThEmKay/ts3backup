@@ -1,0 +1,6 @@
+﻿2018-05-21 03:00:07.871496|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-05-21 09:19:36.612818|INFO    |VirtualServer |1  |client 'Fohgil'(id:1505) was added to channelgroup 'Operator'(id:6) by client 'ichnichtdu/stefan'(id:1184) in channel '╔ Trashtalk'(id:53)
+2018-05-21 09:19:44.414265|INFO    |VirtualServer |1  |client 'Fohgil'(id:1505) was added to channelgroup 'Voice'(id:7) by client 'ichnichtdu/stefan'(id:1184) in channel '╔ Trashtalk'(id:53)
+2018-05-21 09:19:54.205159|INFO    |VirtualServer |1  |client (id:1505) was added to servergroup 'Male'(id:10) by client 'ichnichtdu/stefan'(id:1184)
+2018-05-21 09:20:02.397018|INFO    |VirtualServer |1  |client 'Fohgil'(id:1505) was added to channelgroup 'Guest'(id:8) by client 'ichnichtdu/stefan'(id:1184) in channel '╔ Trashtalk'(id:53)
+2018-05-22 03:00:01.134152|INFO    |VirtualServerBase|1  |stopped

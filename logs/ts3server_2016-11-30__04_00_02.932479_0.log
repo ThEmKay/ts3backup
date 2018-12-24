@@ -1,0 +1,14 @@
+﻿2016-11-30 04:00:02.932608|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.3 (2016-03-04 08:31:20)
+2016-11-30 04:00:02.932764|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-45-pve #1 SMP Wed Mar 30 12:22:08 CEST 2016 x86_64 Binary: 64bit
+2016-11-30 04:00:02.932803|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2016-11-30 04:00:02.935681|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-11-30 04:00:02.935759|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2016-11-30 04:00:02.935980|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2016-11-30 04:00:02.969757|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2016-11-30 04:00:08.000393|INFO    |              |   |Puzzle precompute time: 4903
+2016-11-30 04:00:08.000823|INFO    |FileManager   |   |listening on 0.0.0.0:30033
+2016-11-30 04:00:08.033681|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1, 
+2016-11-30 04:00:08.034110|INFO    |Query         |   |listening on 0.0.0.0:10011
+2016-12-01 00:00:03.069789|INFO    |VirtualSvrMgr |   |executing monthly interval
+2016-12-01 00:00:03.070057|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2016-12-01 04:00:01.566821|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

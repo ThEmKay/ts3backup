@@ -1,0 +1,4 @@
+﻿2018-01-15 06:10:53.666464|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-01-16 00:24:32.953263|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by 'TschanStar'(id:1235) to channel '┌ Schnellsuche'(id:43)
+2018-01-16 00:24:50.218693|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'TschanStar'(id:1235) to channel '┌ Schnellsuche'(id:43)
+2018-01-16 04:00:01.741142|INFO    |VirtualServerBase|1  |stopped

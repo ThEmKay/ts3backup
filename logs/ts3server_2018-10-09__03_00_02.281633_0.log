@@ -1,0 +1,25 @@
+﻿2018-10-09 03:00:02.281730|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.3.0 (2018-07-31 16:10:01)
+2018-10-09 03:00:02.281880|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2018-10-09 03:00:02.281909|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2018-10-09 03:00:02.282724|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-10-09 03:00:02.282770|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-10-09 03:00:02.287276|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-10-09 03:00:02.342950|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-10-09 03:00:02.343160|INFO    |Accounting    |   |Licensing Information
+2018-10-09 03:00:02.343186|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-10-09 03:00:02.343205|INFO    |Accounting    |   |type              : No License
+2018-10-09 03:00:02.343229|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-10-09 03:00:02.343247|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-10-09 03:00:02.343264|INFO    |Accounting    |   |max virtualservers: 1
+2018-10-09 03:00:02.343279|INFO    |Accounting    |   |max slots         : 32
+2018-10-09 03:00:02.458691|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-09 03:00:06.037051|INFO    |              |   |Puzzle precompute time: 3565
+2018-10-09 03:00:06.037505|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-10-09 03:00:06.078394|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-10-09 03:00:06.078541|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, 
+2018-10-09 17:48:48.984333|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2288558231": No such file or directory
+2018-10-09 17:48:49.002075|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2212183416": No such file or directory
+2018-10-09 17:48:49.014832|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_725106390": No such file or directory
+2018-10-09 17:48:49.020796|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3126449237": No such file or directory
+2018-10-09 17:48:49.110538|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3048098246": No such file or directory
+2018-10-10 03:00:02.002676|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

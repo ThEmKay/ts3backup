@@ -1,0 +1,10 @@
+﻿2018-12-23 04:00:06.350550|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-23 14:58:34.281528|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-12-23 18:24:58.360184|INFO    |VirtualServer |1  |client (id:1787) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-12-23 18:26:44.385049|INFO    |VirtualServer |1  |client (id:1827) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-12-23 18:26:50.148818|INFO    |VirtualServer |1  |client (id:1824) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-12-23 18:27:10.913962|INFO    |VirtualServer |1  |client (id:1828) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-12-23 19:15:33.059912|INFO    |VirtualServer |1  |client (id:1830) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-12-23 19:26:23.977098|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
+2018-12-23 20:25:08.042132|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2018-12-24 04:00:01.856298|INFO    |VirtualServerBase|1  |stopped

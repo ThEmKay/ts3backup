@@ -1,0 +1,15 @@
+﻿2018-08-24 03:00:06.476466|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-08-24 14:19:44.345578|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-08-24 14:19:47.349541|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-08-24 14:24:10.628770|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-08-24 14:24:10.629062|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-08-24 14:24:10.629192|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-08-24 14:30:17.027012|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-08-24 14:30:20.031564|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-08-24 14:30:29.042828|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-08-24 14:37:07.479999|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-08-24 14:37:07.480329|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-08-24 14:37:07.480518|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-08-24 23:27:35.635943|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-08-25 01:00:10.705283|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-08-25 03:00:02.014761|INFO    |VirtualServerBase|1  |stopped

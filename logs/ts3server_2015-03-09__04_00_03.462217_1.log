@@ -1,0 +1,4 @@
+2015-03-09 04:00:06.133791|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-03-09 17:55:23.680242|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Female'(id:11) by client '&#12483;k1d'(id:4)
+2015-03-09 19:59:46.121013|INFO    |VirtualServer |  1| client 'Phil-Yukiona'(id:9) was added to channelgroup 'Guest'(id:8) by client '&#12483;k1d'(id:4) in channel '&#9500; Raid'(id:11)
+2015-03-10 04:00:01.420927|INFO    |VirtualServerBase|  1| stopped

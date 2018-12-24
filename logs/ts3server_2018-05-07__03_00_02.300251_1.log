@@ -1,0 +1,6 @@
+﻿2018-05-07 03:00:06.391296|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-05-07 17:43:45.528988|INFO    |VirtualServer |1  |client (id:1489) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-05-07 17:49:34.642580|INFO    |VirtualServer |1  |client (id:1490) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-05-07 17:52:43.334960|INFO    |VirtualServer |1  |client (id:1486) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-05-07 20:02:38.271012|INFO    |VirtualServer |1  |client (id:1491) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-05-08 03:00:01.433292|INFO    |VirtualServerBase|1  |stopped

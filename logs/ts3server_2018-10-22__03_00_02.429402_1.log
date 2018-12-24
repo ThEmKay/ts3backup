@@ -1,0 +1,5 @@
+﻿2018-10-22 03:00:06.899801|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-22 17:51:44.122665|INFO    |VirtualServer |1  |client (id:1722) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-10-22 17:51:50.030301|INFO    |VirtualServer |1  |client (id:1729) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-10-22 19:31:01.975732|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2018-10-23 03:00:01.383241|INFO    |VirtualServerBase|1  |stopped

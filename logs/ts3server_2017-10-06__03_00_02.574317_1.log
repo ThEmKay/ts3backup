@@ -1,0 +1,3 @@
+﻿2017-10-06 03:00:06.905859|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-10-06 17:42:45.333572|INFO    |VirtualServer |1  |client (id:1189) was added to servergroup 'Female'(id:11) by client 'Sinax'(id:755)
+2017-10-07 03:00:01.567656|INFO    |VirtualServerBase|1  |stopped

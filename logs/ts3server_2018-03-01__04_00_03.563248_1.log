@@ -1,0 +1,5 @@
+﻿2018-03-01 04:00:07.948975|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-03-01 18:36:04.634570|INFO    |VirtualServer |1  |client 'Queeg'(id:1409) was added to channelgroup 'Voice'(id:7) by client 'Paakai | Christian'(id:1299) in channel '║ Instanz I'(id:62)
+2018-03-01 18:36:10.640867|INFO    |VirtualServer |1  |client (id:1409) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-03-01 18:36:16.567620|INFO    |VirtualServer |1  |client 'Queeg'(id:1409) was added to channelgroup 'Guest'(id:8) by client 'Paakai | Christian'(id:1299) in channel '║ Instanz I'(id:62)
+2018-03-02 04:00:01.644262|INFO    |VirtualServerBase|1  |stopped

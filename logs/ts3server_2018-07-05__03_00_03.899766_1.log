@@ -1,0 +1,6 @@
+﻿2018-07-05 03:00:08.098487|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-07-05 15:17:47.826230|INFO    |VirtualServer |1  |client 'Burli'(id:1551) was added to channelgroup 'Voice'(id:7) by client 'Illgrathr'(id:1533) in channel '╚ Lounge III'(id:65)
+2018-07-05 15:17:54.656660|INFO    |VirtualServer |1  |client 'Burli'(id:1551) was added to channelgroup 'Operator'(id:6) by client 'Illgrathr'(id:1533) in channel '╚ Lounge III'(id:65)
+2018-07-05 15:17:57.876427|INFO    |VirtualServer |1  |client 'Burli'(id:1551) was added to channelgroup 'Guest'(id:8) by client 'Illgrathr'(id:1533) in channel '╚ Lounge III'(id:65)
+2018-07-05 15:18:02.820517|INFO    |VirtualServer |1  |client (id:1551) was added to servergroup 'Male'(id:10) by client 'Illgrathr'(id:1533)
+2018-07-06 03:00:01.527680|INFO    |VirtualServerBase|1  |stopped

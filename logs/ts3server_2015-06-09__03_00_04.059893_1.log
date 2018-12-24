@@ -1,0 +1,4 @@
+2015-06-09 03:00:06.754991|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-06-09 22:58:17.165857|INFO    |VirtualServer |  1| permission 'i_client_kick_from_server_power'(id:196) with values (value:25, negated:0, skipchannel:1) was added by 'basti'(id:2) to servergroup 'Offizier'(id:6)
+2015-06-09 22:58:17.654860|INFO    |VirtualServer |  1| permission 'i_client_kick_from_server_power'(id:196) with values (value:25, negated:0, skipchannel:0) was added by 'basti'(id:2) to servergroup 'Offizier'(id:6)
+2015-06-10 03:00:01.186478|INFO    |VirtualServerBase|  1| stopped

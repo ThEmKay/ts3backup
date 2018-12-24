@@ -1,0 +1,9 @@
+﻿2018-03-30 03:00:07.965409|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-03-30 17:58:43.258661|INFO    |VirtualServer |1  |client (id:1443) was added to servergroup 'Female'(id:11) by client 'Basti'(id:651)
+2018-03-30 18:16:21.806140|INFO    |VirtualServer |1  |client (id:1444) was added to servergroup 'Female'(id:11) by client 'Paakai | Christian'(id:1299)
+2018-03-30 18:16:26.338095|INFO    |VirtualServer |1  |client (id:1443) was removed from servergroup 'Female'(id:11) by client 'Paakai | Christian'(id:1299)
+2018-03-30 18:16:31.426184|INFO    |VirtualServer |1  |client (id:1443) was added to servergroup 'Female'(id:11) by client 'Paakai | Christian'(id:1299)
+2018-03-30 18:16:38.768599|INFO    |VirtualServer |1  |client (id:1442) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-03-30 18:21:43.491363|INFO    |VirtualServer |1  |client (id:1445) was added to servergroup 'Male'(id:10) by client 'Basti'(id:651)
+2018-03-30 18:33:00.181239|INFO    |VirtualServer |1  |client (id:1411) was added to servergroup 'Female'(id:11) by client 'Paakai | Christian'(id:1299)
+2018-03-31 03:00:01.618686|INFO    |VirtualServerBase|1  |stopped

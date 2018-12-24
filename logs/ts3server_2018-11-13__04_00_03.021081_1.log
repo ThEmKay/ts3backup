@@ -1,0 +1,4 @@
+﻿2018-11-13 04:00:07.035854|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-11-13 17:09:37.337373|INFO    |VirtualServer |1  |client (id:1761) was removed from servergroup 'Male'(id:10) by client 'ichnichtdu/stefan'(id:1184)
+2018-11-13 17:09:47.113050|INFO    |VirtualServer |1  |client (id:1754) was removed from servergroup 'Male'(id:10) by client 'ichnichtdu/stefan'(id:1184)
+2018-11-14 04:00:01.112413|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,3 @@
+2016-03-26 22:43:41.692145|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-03-26 22:46:44.541089|DEVELOP |VirtualServerBase|  1| After 2 seconds there were still 1Clients connected
+2016-03-26 22:46:44.591838|INFO    |VirtualServerBase|  1| stopped

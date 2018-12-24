@@ -1,0 +1,6 @@
+﻿2018-01-14 04:00:07.974480|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-01-14 06:31:42.618264|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'TschanStar'(id:1235) to channel '┌ Trashtalk'(id:15)
+2018-01-14 07:39:39.477194|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by 'TschanStar'(id:1235) to channel '┌ Lounge I'(id:54)
+2018-01-14 07:39:50.695046|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by 'TschanStar'(id:1235) to channel '└ Lounge II'(id:56)
+2018-01-14 16:15:11.233357|INFO    |VirtualServer |1  |client (id:1322) was added to servergroup 'Male'(id:10) by client 'Joni'(id:1205)
+2018-01-14 16:25:43.341394|INFO    |VirtualServer |1  |client (id:1323) was added to servergroup 'Male'(id:10) by client 'Joni'(id:1205)

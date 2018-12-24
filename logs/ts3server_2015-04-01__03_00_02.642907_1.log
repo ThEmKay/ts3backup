@@ -1,0 +1,5 @@
+2015-04-01 03:00:05.259609|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-04-01 04:30:27.202900|INFO    |VirtualServer |  1| client (id:92) was removed from servergroup 'Female'(id:11) by client '&#12483;k1d'(id:4)
+2015-04-01 16:31:22.055355|INFO    |VirtualServer |  1| client (id:340) was added to servergroup 'Male'(id:10) by client 'Shin Tschan'(id:6)
+2015-04-01 21:24:54.150731|INFO    |VirtualServer |  1| client (id:339) was added to servergroup 'Male'(id:10) by client 'Shin Tschan'(id:6)
+2015-04-02 03:00:01.269599|INFO    |VirtualServerBase|  1| stopped

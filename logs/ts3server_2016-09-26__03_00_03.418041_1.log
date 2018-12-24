@@ -1,0 +1,2 @@
+﻿2016-09-26 03:00:07.957971|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-09-26 16:33:40.952804|INFO    |VirtualServer |1  |client (id:872) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)

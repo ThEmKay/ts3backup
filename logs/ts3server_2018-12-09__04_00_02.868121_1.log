@@ -1,0 +1,9 @@
+﻿2018-12-09 04:00:06.608989|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-09 16:13:30.830880|INFO    |VirtualServer |1  |client (id:1811) was added to servergroup 'Male'(id:10) by client 'NeVoX'(id:1808)
+2018-12-09 16:13:34.490404|INFO    |VirtualServer |1  |client (id:1811) was added to servergroup 'Offizier'(id:6) by client 'NeVoX'(id:1808)
+2018-12-09 18:25:34.925451|INFO    |VirtualServer |1  |client (id:1798) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-12-09 18:33:10.983210|INFO    |VirtualServer |1  |client (id:1813) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-12-09 18:33:15.294720|INFO    |VirtualServer |1  |client (id:1812) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-12-09 18:33:20.746672|INFO    |VirtualServer |1  |client (id:1796) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-12-09 18:38:03.452614|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-12-10 04:00:01.361236|INFO    |VirtualServerBase|1  |stopped

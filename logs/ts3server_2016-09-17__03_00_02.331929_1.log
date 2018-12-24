@@ -1,0 +1,9 @@
+﻿2016-09-17 03:00:07.658478|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-09-17 12:04:01.156881|INFO    |VirtualServer |1  |client (id:855) was added to servergroup 'Female'(id:11) by client 'Ramon'(id:339)
+2016-09-17 12:04:10.947040|INFO    |VirtualServer |1  |client 'Sebi'(id:855) was added to channelgroup 'Voice'(id:7) by client 'Ramon'(id:339) in channel 'Nicer Dicer WG'(id:58)
+2016-09-17 12:04:16.617231|INFO    |VirtualServer |1  |client 'Sebi'(id:855) was added to channelgroup 'Guest'(id:8) by client 'Ramon'(id:339) in channel 'Nicer Dicer WG'(id:58)
+2016-09-17 12:04:23.994239|INFO    |VirtualServer |1  |client 'Sebi'(id:855) was added to channelgroup 'Operator'(id:6) by client 'Ramon'(id:339) in channel 'Nicer Dicer WG'(id:58)
+2016-09-17 12:04:34.155236|INFO    |VirtualServer |1  |client 'Sebi'(id:855) was added to channelgroup 'Voice'(id:7) by client 'Ramon'(id:339) in channel 'Nicer Dicer WG'(id:58)
+2016-09-17 12:04:39.480191|INFO    |VirtualServer |1  |client 'Sebi'(id:855) was added to channelgroup 'Guest'(id:8) by client 'Ramon'(id:339) in channel 'Nicer Dicer WG'(id:58)
+2016-09-17 12:04:47.945525|INFO    |VirtualServer |1  |client (id:855) was removed from servergroup 'Female'(id:11) by client 'Ramon'(id:339)
+2016-09-18 03:00:01.425763|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,4 @@
+2016-03-12 04:00:06.552269|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-03-12 12:33:25.925500|INFO    |VirtualServer |  1| client (id:496) was added to servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-03-12 12:33:29.252840|INFO    |VirtualServer |  1| client (id:496) was removed from servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-03-13 04:00:02.361284|INFO    |VirtualServerBase|  1| stopped

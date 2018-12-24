@@ -1,0 +1,5 @@
+﻿2018-12-17 04:00:06.390415|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-17 16:53:16.783540|INFO    |VirtualServer |1  |client (id:1822) was added to servergroup 'Female'(id:11) by client 'Paakai | Christian'(id:1299)
+2018-12-17 20:49:30.940246|INFO    |VirtualServer |1  |client (id:1823) was added to servergroup 'Male'(id:10) by client 'Illgrathr'(id:1533)
+2018-12-17 20:49:45.238572|INFO    |VirtualServer |1  |client (id:1823) was added to servergroup 'Female'(id:11) by client 'TschanStar / Mijhra'(id:1235)
+2018-12-18 04:00:01.050008|INFO    |VirtualServerBase|1  |stopped

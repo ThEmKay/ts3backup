@@ -1,0 +1,3 @@
+﻿2016-08-02 03:00:07.266413|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-08-02 15:30:36.106749|WARNING |FileTransfer  |1  |Failed to remove files/virtualserver_1/channel_15/nox_setup_v3.7.0.0_full_En_pokemon.exe
+2016-08-03 03:00:01.849865|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,17 @@
+﻿2018-02-20 04:00:08.949244|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-20 17:20:26.834184|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'TschanStar'(id:1235) to channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 17:20:26.836481|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_rename_power'(id:240) with values (value:25) was added by 'TschanStar'(id:1235) to channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 17:20:26.837933|INFO    |VirtualServer |1  |permission 'i_ft_needed_directory_create_power'(id:244) with values (value:25) was added by 'TschanStar'(id:1235) to channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 17:20:26.839248|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_upload_power'(id:234) with values (value:25) was added by 'TschanStar'(id:1235) to channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 17:20:26.840775|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'TschanStar'(id:1235) to channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 17:20:26.842150|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_download_power'(id:236) with values (value:25) was added by 'TschanStar'(id:1235) to channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 18:51:53.027181|INFO    |VirtualServer |1  |client (id:1398) was added to servergroup 'Male'(id:10) by client 'basti'(id:651)
+2018-02-20 18:51:59.549313|INFO    |VirtualServer |1  |client (id:1299) was added to servergroup 'Offizier'(id:6) by client 'basti'(id:651)
+2018-02-20 18:59:00.255452|INFO    |VirtualServer |1  |client (id:1299) was added to servergroup 'Female'(id:11) by client 'Hinata/FIL'(id:1341)
+2018-02-20 20:04:33.356200|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'basti'(id:651) to channel 'Lounge III'(id:65)
+2018-02-20 20:04:33.360981|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'basti'(id:651) to channel 'Lounge III'(id:65)
+2018-02-20 23:31:01.861431|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'TschanStar'(id:1235) for client (id:1235) and channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-20 23:31:06.200740|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'TschanStar'(id:1235) for client (id:1235) and channel '| Tschan's Wallhacker-Lounge'(id:64)
+2018-02-21 01:35:28.607449|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:142) with values (value:642016421) was added by 'TschanStar'(id:1235) to channel '║ Tschan's Wallhacker-Lounge'(id:64)
+2018-02-21 01:37:48.343699|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by 'TschanStar'(id:1235) to channel '╚ Lounge III'(id:65)
+2018-02-21 04:00:01.666112|INFO    |VirtualServerBase|1  |stopped

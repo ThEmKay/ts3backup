@@ -1,0 +1,4 @@
+﻿2018-12-15 04:00:07.349481|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-15 16:58:12.665423|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-12-15 16:58:12.665508|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2018-12-16 04:00:01.611039|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,7 @@
+﻿2018-02-21 04:00:07.878736|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-21 18:56:58.078095|INFO    |VirtualServer |1  |client (id:1387) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-02-21 18:57:04.800655|INFO    |VirtualServer |1  |client (id:1400) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-02-21 18:57:10.259373|INFO    |VirtualServer |1  |client (id:1401) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-02-21 20:07:07.077721|INFO    |VirtualServer |1  |client (id:1394) was added to servergroup 'Male'(id:10) by client 'Hinata/FIL'(id:1341)
+2018-02-21 20:47:21.439435|INFO    |VirtualServer |1  |client (id:1402) was added to servergroup 'Male'(id:10) by client 'basti'(id:651)
+2018-02-22 04:00:01.317489|INFO    |VirtualServerBase|1  |stopped

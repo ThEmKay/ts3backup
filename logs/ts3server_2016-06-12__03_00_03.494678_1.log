@@ -1,0 +1,5 @@
+﻿2016-06-12 03:00:07.824343|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-06-12 15:37:36.154411|INFO    |VirtualServer |1  |client (id:788) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-06-12 15:41:29.127643|INFO    |VirtualServer |1  |client (id:789) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-06-12 15:48:24.400443|INFO    |VirtualServer |1  |client (id:790) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-06-13 03:00:01.695625|INFO    |VirtualServerBase|1  |stopped

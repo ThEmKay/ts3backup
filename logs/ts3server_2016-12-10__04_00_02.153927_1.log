@@ -1,0 +1,3 @@
+﻿2016-12-10 04:00:06.829543|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-12-10 13:33:18.843344|INFO    |VirtualServer |1  |client (id:975) was added to servergroup 'Male'(id:10) by client 'ッk1d'(id:4)
+2016-12-11 04:00:01.465461|INFO    |VirtualServerBase|1  |stopped

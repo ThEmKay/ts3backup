@@ -1,0 +1,4 @@
+2015-05-24 03:00:06.860129|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-05-24 15:00:19.123523|INFO    |VirtualServer |  1| client (id:332) was removed from servergroup 'Male'(id:10) by client 'PikaPika &#12484;'(id:6)
+2015-05-24 15:00:57.452630|INFO    |VirtualServer |  1| client (id:332) was added to servergroup 'Female'(id:11) by client 'PikaPika &#12484;'(id:6)
+2015-05-25 03:00:01.513755|INFO    |VirtualServerBase|  1| stopped

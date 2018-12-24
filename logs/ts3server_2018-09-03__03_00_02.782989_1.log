@@ -1,0 +1,14 @@
+﻿2018-09-03 03:00:06.534402|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-09-03 17:44:16.919726|INFO    |VirtualServer |1  |client (id:1570) was added to servergroup 'Female'(id:11) by client 'Basti'(id:591)
+2018-09-03 17:47:56.168431|INFO    |VirtualServer |1  |client (id:1571) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-09-03 17:51:09.728832|INFO    |VirtualServer |1  |client (id:1572) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-09-03 18:20:42.014500|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-09-03 18:20:42.015481|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-09-03 18:22:59.249521|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-09-03 18:23:00.251646|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
+2018-09-03 18:25:32.474661|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2018-09-03 18:25:32.475668|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2018-09-03 18:46:15.507446|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2018-09-03 18:46:15.509073|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
+2018-09-03 19:10:53.768222|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2018-09-04 03:00:01.101338|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,4 @@
+﻿2017-08-10 03:00:07.074161|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-08-10 18:48:28.854650|INFO    |VirtualServer |1  |client (id:1159) was added to servergroup 'Male'(id:10) by client 'Jonny'(id:852)
+2017-08-10 19:52:28.409931|INFO    |VirtualServer |1  |client (id:1160) was added to servergroup 'Male'(id:10) by client 'Jonny'(id:852)
+2017-08-11 03:00:01.204476|INFO    |VirtualServerBase|1  |stopped

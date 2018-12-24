@@ -1,0 +1,17 @@
+﻿2018-11-18 04:00:06.963279|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-11-18 18:19:19.700849|INFO    |VirtualServer |1  |client (id:1748) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-18 18:19:23.466845|INFO    |VirtualServer |1  |client (id:1779) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-18 18:19:28.147362|INFO    |VirtualServer |1  |client (id:1781) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-18 18:19:32.050768|INFO    |VirtualServer |1  |client (id:1778) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-18 18:19:35.600690|INFO    |VirtualServer |1  |client (id:1780) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-18 18:26:52.771298|INFO    |VirtualServer |1  |client (id:1777) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-18 19:04:16.071597|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2018-11-18 19:06:03.382663|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
+2018-11-18 19:25:38.945578|INFO    |PktHandler    |1  |Dropping client 36 because of ping timeout 19 0 0
+2018-11-18 20:00:59.990640|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
+2018-11-18 20:15:00.287408|INFO    |PktHandler    |1  |Dropping client 44 because of ping timeout 19 0 0
+2018-11-18 20:18:48.938401|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-11-18 20:43:28.875017|INFO    |PktHandler    |1  |Dropping client 45 because of ping timeout 19 0 0
+2018-11-18 20:47:59.543686|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-11-18 21:14:17.780195|INFO    |VirtualServer |1  |client (id:1786) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-11-19 04:00:01.948975|INFO    |VirtualServerBase|1  |stopped

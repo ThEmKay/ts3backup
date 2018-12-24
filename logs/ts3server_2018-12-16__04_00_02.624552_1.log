@@ -1,0 +1,4 @@
+﻿2018-12-16 04:00:06.448152|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-16 11:41:57.031086|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:1141655189) was added by 'TschanStar / Mijhra'(id:1235) to channel '║ Tschan's Wallhacker-Lounge'(id:64)
+2018-12-16 18:41:04.004981|INFO    |VirtualServer |1  |client (id:1820) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-12-17 04:00:01.251025|INFO    |VirtualServerBase|1  |stopped

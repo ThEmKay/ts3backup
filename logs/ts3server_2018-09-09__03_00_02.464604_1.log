@@ -1,0 +1,11 @@
+﻿2018-09-09 03:00:06.679921|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-09-09 16:10:51.094075|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:139) with values (value:75) was added by 'TschanStar'(id:1235) to channel '٠••● WoW: Die feinen Herren'(id:66)
+2018-09-09 16:13:05.143091|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:124) with values (value:75) was added by 'TschanStar'(id:1235) to channel '╔ Trashtalk'(id:67)
+2018-09-09 16:13:05.143962|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:139) with values (value:25) was added by 'TschanStar'(id:1235) to channel '╔ Trashtalk'(id:67)
+2018-09-09 16:13:15.011044|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:124) with values (value:75) was added by 'TschanStar'(id:1235) to channel '║ Instanz'(id:68)
+2018-09-09 16:13:15.011979|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:139) with values (value:25) was added by 'TschanStar'(id:1235) to channel '║ Instanz'(id:68)
+2018-09-09 16:13:24.036072|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:124) with values (value:75) was added by 'TschanStar'(id:1235) to channel '╚ Raid'(id:69)
+2018-09-09 16:13:24.037015|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:139) with values (value:25) was added by 'TschanStar'(id:1235) to channel '╚ Raid'(id:69)
+2018-09-09 16:26:19.962281|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:124) with values (value:75) was added by 'TschanStar'(id:1235) to channel '٠••● WoW: Die feinen Herren'(id:66)
+2018-09-09 19:42:51.735227|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2018-09-10 03:00:01.445491|INFO    |VirtualServerBase|1  |stopped

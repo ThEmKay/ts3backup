@@ -1,0 +1,6 @@
+﻿2018-02-23 04:00:07.884395|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-23 21:30:37.104423|INFO    |VirtualServer |1  |client (id:1395) was added to servergroup 'Male'(id:10) by client 'Basti'(id:651)
+2018-02-23 21:30:45.357239|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'Basti'(id:651) to channel '╔ Lounge I'(id:54)
+2018-02-23 21:31:00.417339|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'Basti'(id:651) to channel '║ Lounge II'(id:56)
+2018-02-23 21:31:04.948999|INFO    |VirtualServer |1  |client (id:1299) was removed from servergroup 'Female'(id:11) by client 'Basti'(id:651)
+2018-02-24 04:00:01.982238|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,5 @@
+﻿2018-10-23 03:00:05.786215|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-23 11:19:07.360063|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-10-23 17:39:18.131709|INFO    |VirtualServer |1  |client (id:1615) was added to servergroup 'Male'(id:10) by client 'TschanStar / Mijhra'(id:1235)
+2018-10-23 19:32:13.564463|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-10-24 03:00:01.803581|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,8 @@
+﻿2016-11-10 04:00:07.139055|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-11-10 20:31:12.336389|INFO    |VirtualServer |1  |client 'sport news'(id:639) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '┌ Lounge I'(id:54)
+2016-11-10 20:31:12.337123|INFO    |VirtualServer |1  |client 'Jan'(id:909) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '┌ Lounge I'(id:54)
+2016-11-10 20:31:12.337820|INFO    |VirtualServer |1  |client 'greco'(id:641) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '┌ Lounge I'(id:54)
+2016-11-10 20:31:22.700718|INFO    |VirtualServer |1  |client 'sport news'(id:639) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '┌ Lounge I'(id:54)
+2016-11-10 20:31:22.702168|INFO    |VirtualServer |1  |client 'Jan'(id:909) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '┌ Lounge I'(id:54)
+2016-11-10 20:31:22.703927|INFO    |VirtualServer |1  |client 'greco'(id:641) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '┌ Lounge I'(id:54)
+2016-11-11 04:00:01.763645|INFO    |VirtualServerBase|1  |stopped

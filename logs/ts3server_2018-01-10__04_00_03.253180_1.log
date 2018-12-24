@@ -1,0 +1,4 @@
+﻿2018-01-10 04:00:08.295025|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-01-10 17:11:44.105484|INFO    |VirtualServer |1  |client (id:1280) was added to servergroup 'Male'(id:10) by client 'NeVox'(id:1256)
+2018-01-10 23:00:14.250231|INFO    |VirtualServer |1  |client (id:1313) was added to servergroup 'Female'(id:11) by client 'ichnichtdu/stefan'(id:1184)
+2018-01-11 04:00:01.234540|INFO    |VirtualServerBase|1  |stopped

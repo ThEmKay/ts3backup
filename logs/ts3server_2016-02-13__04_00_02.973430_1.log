@@ -1,0 +1,9 @@
+2016-02-13 04:00:05.649766|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-02-13 21:57:12.520853|INFO    |VirtualServer |  1| client (id:607) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2016-02-13 21:58:30.873136|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:25, negated:0, skipchannel:0) was added by '&#12483;k1d'(id:4) to servergroup 'Male'(id:10)
+2016-02-13 21:58:45.556733|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:50, negated:0, skipchannel:0) was added by '&#12483;k1d'(id:4) to servergroup 'Male'(id:10)
+2016-02-13 21:58:50.226575|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:25, negated:0, skipchannel:0) was added by '&#12483;k1d'(id:4) to servergroup 'Male'(id:10)
+2016-02-13 22:00:06.745429|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:50, negated:0, skipchannel:0) was added by '&#12483;k1d'(id:4) to servergroup 'Male'(id:10)
+2016-02-13 22:00:14.670749|INFO    |VirtualServer |  1| client (id:607) was removed from servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2016-02-13 22:00:44.636837|INFO    |VirtualServer |  1| client (id:607) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2016-02-14 04:00:02.149215|INFO    |VirtualServerBase|  1| stopped

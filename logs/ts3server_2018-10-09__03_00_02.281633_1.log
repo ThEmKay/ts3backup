@@ -1,0 +1,8 @@
+﻿2018-10-09 03:00:06.077959|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-09 17:47:13.914048|INFO    |VirtualServer |1  |client (id:1617) was added to servergroup 'Male'(id:10) by client 'TschanStar / Mijhra'(id:1235)
+2018-10-09 17:50:31.182858|INFO    |VirtualServer |1  |client (id:1584) was added to servergroup 'Male'(id:10) by client 'TschanStar / Mijhra'(id:1235)
+2018-10-09 17:50:34.084929|INFO    |VirtualServer |1  |client (id:1580) was added to servergroup 'Male'(id:10) by client 'TschanStar / Mijhra'(id:1235)
+2018-10-09 17:50:39.052830|INFO    |VirtualServer |1  |client (id:1585) was added to servergroup 'Male'(id:10) by client 'TschanStar / Mijhra'(id:1235)
+2018-10-09 17:50:42.739388|INFO    |VirtualServer |1  |client (id:1674) was added to servergroup 'Male'(id:10) by client 'TschanStar / Mijhra'(id:1235)
+2018-10-09 18:30:48.610953|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2018-10-10 03:00:02.003301|INFO    |VirtualServerBase|1  |stopped

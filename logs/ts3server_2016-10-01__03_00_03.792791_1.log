@@ -1,0 +1,8 @@
+﻿2016-10-01 03:00:09.349061|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-10-01 12:51:15.104899|INFO    |VirtualServer |1  |client 'Steve Blowjobs'(id:885) was added to channelgroup 'Voice'(id:7) by client 'Jonny'(id:852) in channel '┌ Team 1'(id:41)
+2016-10-01 12:51:19.389820|INFO    |VirtualServer |1  |client 'Steve Blowjobs'(id:885) was added to channelgroup 'Guest'(id:8) by client 'Jonny'(id:852) in channel '┌ Team 1'(id:41)
+2016-10-01 12:51:23.300345|INFO    |VirtualServer |1  |client (id:885) was added to servergroup 'Male'(id:10) by client 'Jonny'(id:852)
+2016-10-01 12:51:27.247292|INFO    |VirtualServer |1  |client (id:885) was added to servergroup 'Female'(id:11) by client 'Jonny'(id:852)
+2016-10-01 12:51:31.405014|INFO    |VirtualServer |1  |client (id:885) was removed from servergroup 'Male'(id:10) by client 'Jonny'(id:852)
+2016-10-01 19:57:52.215326|INFO    |VirtualServer |1  |client (id:870) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)
+2016-10-02 03:00:01.221830|INFO    |VirtualServerBase|1  |stopped

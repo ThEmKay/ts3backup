@@ -1,0 +1,6 @@
+2016-03-23 04:00:05.555910|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-03-23 17:23:23.433152|INFO    |VirtualServer |  1| client (id:715) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-03-23 17:23:47.174296|INFO    |VirtualServer |  1| client (id:715) was removed from servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-03-23 17:23:52.987308|INFO    |VirtualServer |  1| client (id:713) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-03-23 17:24:10.697127|INFO    |VirtualServer |  1| client (id:628) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-03-24 04:00:01.746761|INFO    |VirtualServerBase|  1| stopped

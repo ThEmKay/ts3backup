@@ -1,0 +1,5 @@
+2015-02-19 04:00:06.614835|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-02-19 21:34:19.725723|INFO    |VirtualServer |  1| client (id:190) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2015-02-19 21:34:24.097351|INFO    |VirtualServer |  1| client (id:190) was added to servergroup 'Offizier'(id:6) by client '&#12483;k1d'(id:4)
+2015-02-19 23:17:14.501072|INFO    |VirtualServer |  1| client 'Shin BesterTschan'(id:190) was added to channelgroup 'Guest'(id:8) by client '&#12483;k1d'(id:4) in channel '&#9484; Lounge I'(id:21)
+2015-02-20 04:00:01.272504|INFO    |VirtualServerBase|  1| stopped

@@ -1,0 +1,4 @@
+2016-01-26 04:00:06.947965|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-01-26 19:37:06.457309|INFO    |VirtualServer |  1| client (id:599) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)
+2016-01-26 19:37:16.540418|INFO    |VirtualServer |  1| client (id:411) was added to servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-01-27 04:00:01.794672|INFO    |VirtualServerBase|  1| stopped

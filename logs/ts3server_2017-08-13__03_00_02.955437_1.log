@@ -1,0 +1,5 @@
+﻿2017-08-13 03:00:07.500406|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-08-13 17:00:25.166524|INFO    |VirtualServer |1  |client (id:1162) was added to servergroup 'Male'(id:10) by client 'Tschan | Großmeister'(id:524)
+2017-08-13 17:02:45.602920|INFO    |VirtualServer |1  |client (id:1149) was added to servergroup 'Male'(id:10) by client 'Tschan | Großmeister'(id:524)
+2017-08-13 17:10:05.321232|INFO    |VirtualServer |1  |client (id:1164) was added to servergroup 'Male'(id:10) by client 'Tschan | Großmeister'(id:524)
+2017-08-14 03:00:01.798507|INFO    |VirtualServerBase|1  |stopped

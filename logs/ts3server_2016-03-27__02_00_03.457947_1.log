@@ -1,0 +1,9 @@
+2016-03-27 02:00:08.079432|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-03-27 17:49:20.246371|INFO    |VirtualServer |  1| permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'Basti'(id:591) to channel '&#9484; Lounge I'(id:21)
+2016-03-27 17:49:54.604756|INFO    |VirtualServer |  1| client (id:726) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2016-03-27 17:50:27.496373|INFO    |VirtualServer |  1| client (id:8) was removed from servergroup 'Offizier'(id:6) by client 'Basti'(id:591)
+2016-03-27 17:50:31.663342|INFO    |VirtualServer |  1| client (id:8) was removed from servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2016-03-27 17:50:52.227758|INFO    |VirtualServer |  1| permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'Basti'(id:591) to channel '&#9492; PVP'(id:27)
+2016-03-27 17:51:13.259537|INFO    |VirtualServer |  1| client (id:8) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2016-03-27 17:51:52.991897|INFO    |VirtualServer |  1| client (id:8) was added to servergroup 'Offizier'(id:6) by client 'Basti'(id:591)
+2016-03-28 02:00:01.743317|INFO    |VirtualServerBase|  1| stopped

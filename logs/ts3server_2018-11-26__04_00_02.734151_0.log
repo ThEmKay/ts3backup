@@ -1,0 +1,19 @@
+﻿2018-11-26 04:00:02.734241|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.3.0 (2018-07-31 16:10:01)
+2018-11-26 04:00:02.734360|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2018-11-26 04:00:02.734389|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2018-11-26 04:00:02.735143|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-11-26 04:00:02.735175|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-11-26 04:00:02.735384|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-11-26 04:00:02.834528|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-11-26 04:00:02.835738|INFO    |Accounting    |   |Licensing Information
+2018-11-26 04:00:02.835775|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-11-26 04:00:02.835807|INFO    |Accounting    |   |type              : No License
+2018-11-26 04:00:02.835846|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-11-26 04:00:02.837726|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-11-26 04:00:02.837759|INFO    |Accounting    |   |max virtualservers: 1
+2018-11-26 04:00:02.837785|INFO    |Accounting    |   |max slots         : 32
+2018-11-26 04:00:02.935943|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-26 04:00:07.179238|INFO    |              |   |Puzzle precompute time: 4205
+2018-11-26 04:00:07.179772|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-11-26 04:00:07.253584|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-11-26 04:00:07.253707|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, 

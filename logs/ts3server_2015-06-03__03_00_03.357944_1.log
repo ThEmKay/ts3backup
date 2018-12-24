@@ -1,0 +1,9 @@
+2015-06-03 03:00:05.975991|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-06-04 00:59:04.750965|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'PikaPika &#12484;'(id:6) for client (id:411) and channel '&#9484; Trashtalk'(id:15)
+2015-06-04 00:59:08.373307|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'PikaPika &#12484;'(id:6) for client (id:411) and channel '&#9484; Trashtalk'(id:15)
+2015-06-04 00:59:15.823789|INFO    |VirtualServer |  1| client (id:411) was added to servergroup 'Offizier'(id:6) by client 'PikaPika &#12484;'(id:6)
+2015-06-04 00:59:19.171042|INFO    |VirtualServer |  1| client (id:411) was removed from servergroup 'Offizier'(id:6) by client 'PikaPika &#12484;'(id:6)
+2015-06-04 00:59:23.090105|INFO    |VirtualServer |  1| client 'Endmensch'(id:411) was added to channelgroup 'Channel Admin'(id:5) by client 'PikaPika &#12484;'(id:6) in channel '&#9484; Trashtalk'(id:15)
+2015-06-04 01:00:08.868937|INFO    |VirtualServer |  1| client (id:411) was added to servergroup 'ServerAdmin'(id:9) by client 'PikaPika &#12484;'(id:6)
+2015-06-04 01:00:11.803042|INFO    |VirtualServer |  1| client (id:411) was removed from servergroup 'ServerAdmin'(id:9) by client 'PikaPika &#12484;'(id:6)
+2015-06-04 03:00:01.716649|INFO    |VirtualServerBase|  1| stopped

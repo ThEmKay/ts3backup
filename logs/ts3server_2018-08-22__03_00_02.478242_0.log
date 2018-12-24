@@ -1,0 +1,104 @@
+﻿2018-08-22 03:00:02.478330|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.3.0 (2018-07-31 16:10:01)
+2018-08-22 03:00:02.478448|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2018-08-22 03:00:02.478476|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2018-08-22 03:00:02.479257|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-08-22 03:00:02.479287|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-08-22 03:00:02.479513|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-08-22 03:00:02.544654|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-08-22 03:00:02.546860|INFO    |Accounting    |   |Licensing Information
+2018-08-22 03:00:02.546909|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-08-22 03:00:02.546930|INFO    |Accounting    |   |type              : No License
+2018-08-22 03:00:02.546953|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-08-22 03:00:02.546972|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-08-22 03:00:02.546988|INFO    |Accounting    |   |max virtualservers: 1
+2018-08-22 03:00:02.547004|INFO    |Accounting    |   |max slots         : 32
+2018-08-22 03:00:02.652737|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-08-22 03:00:06.068012|INFO    |              |   |Puzzle precompute time: 3396
+2018-08-22 03:00:06.068495|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-08-22 03:00:06.135544|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-08-22 03:00:06.135784|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, 
+2018-08-22 03:05:08.020028|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:05:10.033913|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:15:06.286376|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:15:08.045098|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:15:10.033810|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:25:06.370486|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:25:08.033769|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:25:10.050567|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:35:06.368419|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:35:08.033855|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:35:10.033807|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:45:06.375054|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:45:08.033812|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:45:10.033892|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:55:06.463998|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:55:08.050804|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:55:10.033771|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:05:06.485533|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:05:08.033913|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:05:10.044777|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:15:06.573503|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:15:08.033833|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:15:10.033806|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:25:06.588297|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:25:08.033819|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:25:10.033851|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:35:06.663940|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:35:08.045060|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:35:10.033844|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:45:06.759213|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:45:08.033847|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:45:10.044897|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:55:06.847523|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:55:08.033796|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:55:10.033841|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:05:06.788627|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:05:08.033833|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:05:10.033811|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:15:06.787853|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:15:08.050144|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:15:10.033857|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:25:06.872527|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:25:08.033890|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:25:10.045000|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:35:06.883635|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:35:08.019926|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:35:10.033767|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:45:06.914081|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:45:08.033866|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:45:10.033847|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:55:06.945094|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:55:08.050256|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:55:10.033792|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:05:06.967056|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:05:08.033815|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:05:10.045045|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:15:06.943577|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:15:08.033855|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:15:10.033780|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:25:07.071272|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:25:09.033853|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:25:11.033851|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:35:07.027284|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:35:09.045000|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:35:11.033829|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:45:07.078222|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:45:09.033799|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:45:11.055021|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:55:07.156283|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:55:09.033830|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:55:11.033817|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:05:07.158017|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:05:09.033814|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:05:11.033834|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:15:07.179469|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:15:09.055430|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:15:11.033815|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:25:07.157008|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:25:09.033845|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:25:11.050707|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:35:07.270260|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:35:09.033903|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:35:11.033851|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:45:07.343259|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-23 03:00:02.014773|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

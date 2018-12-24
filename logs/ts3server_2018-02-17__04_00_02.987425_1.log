@@ -1,0 +1,9 @@
+﻿2018-02-17 04:00:07.369102|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-17 18:46:04.991314|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'ichnichtdu/stefan'(id:1184) for client (id:1184) and channel '┌ Trashtalk'(id:53)
+2018-02-17 18:46:08.119455|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'ichnichtdu/stefan'(id:1184) for client (id:1184) and channel '┌ Trashtalk'(id:53)
+2018-02-17 23:09:00.743802|INFO    |VirtualServer |1  |client (id:1359) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2018-02-17 23:30:52.008936|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'basti'(id:651) to channel '| Instanz I'(id:62)
+2018-02-17 23:30:52.019822|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'basti'(id:651) to channel '| Instanz I'(id:62)
+2018-02-17 23:31:39.328766|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'basti'(id:651) to channel '| Instanz II'(id:63)
+2018-02-17 23:31:39.333060|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'basti'(id:651) to channel '| Instanz II'(id:63)
+2018-02-18 04:00:01.140160|INFO    |VirtualServerBase|1  |stopped

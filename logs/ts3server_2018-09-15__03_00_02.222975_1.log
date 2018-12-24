@@ -1,0 +1,3 @@
+﻿2018-09-15 03:00:06.535738|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-09-15 18:21:37.818576|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-09-16 03:00:01.380627|INFO    |VirtualServerBase|1  |stopped

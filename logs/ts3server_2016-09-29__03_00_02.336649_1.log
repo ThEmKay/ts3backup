@@ -1,0 +1,5 @@
+﻿2016-09-29 03:00:07.434111|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-09-29 17:49:26.594188|INFO    |VirtualServer |1  |client (id:877) was added to servergroup 'Female'(id:11) by client 'Tschan'(id:524)
+2016-09-29 17:51:42.345815|INFO    |VirtualServer |1  |client (id:854) was added to servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-09-29 17:51:53.859668|INFO    |VirtualServer |1  |client (id:854) was removed from servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-09-30 03:00:01.833060|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,4 @@
+﻿2016-08-25 03:00:08.211770|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-08-25 21:44:11.525965|INFO    |VirtualServer |1  |client 'Ramon'(id:339) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '(̅_̅_̅(̅_̅_̅_̅_̅_̅_̅_̅̅()ڪے'(id:20)
+2016-08-25 21:44:29.653110|INFO    |VirtualServer |1  |client (id:339) was added to servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-08-26 03:00:01.261492|INFO    |VirtualServerBase|1  |stopped

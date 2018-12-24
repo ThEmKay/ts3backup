@@ -1,0 +1,4 @@
+﻿2017-03-06 04:00:09.441730|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-03-06 12:38:01.296922|INFO    |VirtualServer |1  |client (id:1045) was added to servergroup 'Male'(id:10) by client 'Tschan | Großmeister'(id:524)
+2017-03-06 22:30:03.518378|INFO    |VirtualServer |1  |client (id:825) was removed from servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-03-07 04:00:01.575245|INFO    |VirtualServerBase|1  |stopped

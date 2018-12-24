@@ -1,0 +1,11 @@
+2016-01-27 04:00:06.276887|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-01-27 13:06:36.835464|INFO    |VirtualServer |  1| client (id:373) was removed from servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-01-27 13:06:43.245832|INFO    |VirtualServer |  1| client (id:373) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-01-27 13:09:27.954858|INFO    |VirtualServer |  1| client (id:496) was added to servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-01-27 13:09:54.428290|INFO    |VirtualServer |  1| client (id:496) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-01-27 13:09:58.439887|INFO    |VirtualServer |  1| client (id:496) was removed from servergroup 'Female'(id:11) by client 'Max'(id:498)
+2016-01-27 15:49:38.822675|INFO    |VirtualServer |  1| permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by '&#12483;k1d'(id:4) to channel '&#9484; Lounge I'(id:21)
+2016-01-27 17:54:17.769720|INFO    |VirtualServer |  1| client (id:603) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2016-01-27 19:25:11.584666|INFO    |VirtualServer |  1| client (id:601) was added to servergroup 'Female'(id:11) by client 'Jan'(id:8)
+2016-01-27 19:25:30.713533|INFO    |VirtualServer |  1| client (id:596) was added to servergroup 'Female'(id:11) by client 'Jan'(id:8)
+2016-01-28 04:00:04.276337|INFO    |VirtualServerBase|  1| stopped

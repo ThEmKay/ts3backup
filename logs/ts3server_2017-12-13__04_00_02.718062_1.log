@@ -1,0 +1,4 @@
+﻿2017-12-13 04:00:07.695581|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-12-13 20:00:29.714028|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'NeVox'(id:1256) to channel '┌ Lounge I'(id:54)
+2017-12-13 20:00:56.339050|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by 'NeVox'(id:1256) to channel '┌ Trashtalk'(id:15)
+2017-12-14 04:00:01.692962|INFO    |VirtualServerBase|1  |stopped

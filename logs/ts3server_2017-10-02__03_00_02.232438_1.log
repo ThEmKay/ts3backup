@@ -1,0 +1,4 @@
+﻿2017-10-02 03:00:06.519473|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-10-02 12:46:17.707446|INFO    |VirtualServer |1  |client (id:1178) was added to servergroup 'Female'(id:11) by client 'Jonny'(id:852)
+2017-10-02 12:46:20.492419|INFO    |VirtualServer |1  |client (id:1178) was removed from servergroup 'Male'(id:10) by client 'Jonny'(id:852)
+2017-10-03 03:00:01.115987|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,6 @@
+﻿2017-12-12 04:00:06.706568|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-12-12 21:00:35.627774|INFO    |VirtualServer |1  |client (id:1259) was added to servergroup 'Male'(id:10) by client 'NeVox'(id:1256)
+2017-12-12 21:07:48.817838|INFO    |VirtualServer |1  |client (id:1268) was added to servergroup 'Male'(id:10) by client 'NeVox'(id:1256)
+2017-12-12 22:19:02.396530|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'NeVox'(id:1256) to channel '┌ Lounge I'(id:54)
+2017-12-13 03:00:20.961702|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:0) was added by 'NeVox'(id:1256) to channel '┌ Lounge I'(id:54)
+2017-12-13 04:00:01.802726|INFO    |VirtualServerBase|1  |stopped

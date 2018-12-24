@@ -1,0 +1,3 @@
+﻿2018-08-14 21:13:12.735893|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-08-14 21:13:20.640638|DEVELOP |VirtualServerBase|1  |After 2 seconds there were still 1Clients connected
+2018-08-14 21:13:20.641171|INFO    |VirtualServerBase|1  |stopped

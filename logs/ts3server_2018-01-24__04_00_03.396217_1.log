@@ -1,0 +1,4 @@
+﻿2018-01-24 04:00:07.947030|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-01-24 19:42:20.254685|INFO    |VirtualServer |1  |client (id:1326) was added to servergroup 'Male'(id:10) by client 'TschanStar'(id:1235)
+2018-01-24 19:47:32.774359|INFO    |VirtualServer |1  |client (id:1331) was added to servergroup 'Female'(id:11) by client 'TschanStar'(id:1235)
+2018-01-25 04:00:01.527707|INFO    |VirtualServerBase|1  |stopped

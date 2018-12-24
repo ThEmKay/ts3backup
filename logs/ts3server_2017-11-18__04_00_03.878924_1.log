@@ -1,0 +1,5 @@
+﻿2017-11-18 04:00:08.694524|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-11-18 19:15:50.249701|INFO    |VirtualServer |1  |client (id:1216) was removed from servergroup 'Male'(id:10) by client 'TschanStar'(id:1235)
+2017-11-18 19:17:11.203869|INFO    |VirtualServer |1  |client (id:1216) was added to servergroup 'Female'(id:11) by client 'TschanStar'(id:1235)
+2017-11-18 19:17:31.988451|INFO    |VirtualServer |1  |client (id:1216) was added to servergroup 'Male'(id:10) by client 'TschanStar'(id:1235)
+2017-11-19 04:00:01.872379|INFO    |VirtualServerBase|1  |stopped

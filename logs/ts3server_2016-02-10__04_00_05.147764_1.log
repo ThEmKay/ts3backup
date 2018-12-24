@@ -1,0 +1,10 @@
+2016-02-10 04:00:07.560192|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-02-10 14:42:53.525428|INFO    |VirtualServer |  1| client (id:498) was removed from servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-10 14:43:36.459105|INFO    |VirtualServer |  1| client (id:498) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-10 14:44:57.954498|INFO    |VirtualServer |  1| client (id:579) was added to servergroup 'Female'(id:11) by client 'Sinax'(id:8)
+2016-02-10 14:45:01.004893|INFO    |VirtualServer |  1| client (id:579) was removed from servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-10 14:45:11.495468|INFO    |VirtualServer |  1| client 'failyx / felix'(id:579) was added to channelgroup 'Operator'(id:6) by client 'Sinax'(id:8) in channel '&#9500; Public'(id:16)
+2016-02-10 14:45:20.469266|INFO    |VirtualServer |  1| client 'failyx / felix'(id:579) was added to channelgroup 'Guest'(id:8) by client 'Sinax'(id:8) in channel '&#9500; Public'(id:16)
+2016-02-10 14:45:26.183027|INFO    |VirtualServer |  1| client (id:579) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-10 14:45:30.103724|INFO    |VirtualServer |  1| client (id:579) was removed from servergroup 'Female'(id:11) by client 'Sinax'(id:8)
+2016-02-11 04:00:02.216337|INFO    |VirtualServerBase|  1| stopped

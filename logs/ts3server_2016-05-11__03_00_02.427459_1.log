@@ -1,0 +1,17 @@
+﻿2016-05-11 03:00:06.717354|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-05-11 18:53:28.487707|INFO    |VirtualServer |1  |permission 'b_client_ban_list'(id:209) was deleted by 'Tschan'(id:524) from servergroup 'Male'(id:10)
+2016-05-11 18:53:28.488746|INFO    |VirtualServer |1  |permission 'b_client_ban_delete_own'(id:211) was deleted by 'Tschan'(id:524) from servergroup 'Male'(id:10)
+2016-05-11 18:53:28.489995|INFO    |VirtualServer |1  |permission 'i_client_ban_max_bantime'(id:213) was deleted by 'Tschan'(id:524) from servergroup 'Male'(id:10)
+2016-05-11 18:53:28.551955|INFO    |VirtualServer |1  |permission 'i_client_ban_power'(id:200) with values (value:0, negated:0, skipchannel:0) was added by 'Tschan'(id:524) to servergroup 'Male'(id:10)
+2016-05-11 18:54:28.543196|INFO    |VirtualServer |1  |permission 'i_ft_file_download_power'(id:235) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:28.544297|INFO    |VirtualServer |1  |permission 'i_ft_file_browse_power'(id:241) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:28.545880|INFO    |VirtualServer |1  |permission 'i_channel_delete_power'(id:129) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:28.547178|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_download_per_client'(id:245) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:28.548450|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_upload_per_client'(id:246) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:28.549467|INFO    |VirtualServer |1  |permission 'i_channel_max_depth'(id:77) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:31.101781|INFO    |VirtualServer |1  |permission 'b_client_request_talker'(id:185) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:31.102452|INFO    |VirtualServer |1  |permission 'b_client_info_view'(id:189) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:31.103178|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:136) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:31.103880|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-11 18:54:31.104574|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:81) was deleted by 'Tschan'(id:524) from servergroup 'Gast'(id:8)
+2016-05-12 03:00:01.234654|INFO    |VirtualServerBase|1  |stopped

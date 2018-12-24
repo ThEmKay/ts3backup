@@ -1,0 +1,4 @@
+2015-08-05 03:00:05.764623|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-08-05 04:35:31.240551|INFO    |VirtualServer |  1| client (id:463) was added to servergroup 'Female'(id:11) by client '&#12483;k1d'(id:4)
+2015-08-05 17:52:31.608090|INFO    |VirtualServer |  1| client (id:461) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:6)
+2015-08-06 03:00:01.952199|INFO    |VirtualServerBase|  1| stopped

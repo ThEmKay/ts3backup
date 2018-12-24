@@ -1,0 +1,6 @@
+2015-05-15 03:00:06.185030|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-05-15 20:32:35.958178|INFO    |VirtualServer |  1| client (id:407) was added to servergroup 'Male'(id:10) by client 'PikaPika &#12484;'(id:6)
+2015-05-15 20:34:39.425934|INFO    |VirtualServer |  1| client (id:405) was added to servergroup 'Female'(id:11) by client 'PikaPika &#12484;'(id:6)
+2015-05-15 20:34:43.259485|INFO    |VirtualServer |  1| client (id:405) was removed from servergroup 'Male'(id:10) by client 'PikaPika &#12484;'(id:6)
+2015-05-15 20:35:47.989758|INFO    |VirtualServer |  1| client (id:409) was added to servergroup 'Female'(id:11) by client 'PikaPika &#12484;'(id:6)
+2015-05-15 20:35:51.532988|INFO    |VirtualServer |  1| client (id:410) was added to servergroup 'Female'(id:11) by client 'PikaPika &#12484;'(id:6)

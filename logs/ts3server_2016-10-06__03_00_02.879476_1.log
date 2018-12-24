@@ -1,0 +1,5 @@
+﻿2016-10-06 03:00:08.759736|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-10-06 19:41:00.699406|INFO    |VirtualServer |1  |client (id:897) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2016-10-06 21:46:26.684018|INFO    |VirtualServer |1  |client (id:894) was added to servergroup 'Male'(id:10) by client 'Illgrathr'(id:480)
+2016-10-07 00:34:16.538877|INFO    |VirtualServer |1  |client (id:898) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)
+2016-10-07 03:00:01.864184|INFO    |VirtualServerBase|1  |stopped

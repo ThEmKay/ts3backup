@@ -1,0 +1,2 @@
+﻿2017-11-26 04:00:08.448650|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-11-26 21:38:52.123465|INFO    |VirtualServer |1  |client (id:1245) was added to servergroup 'Male'(id:10) by client 'basti'(id:651)

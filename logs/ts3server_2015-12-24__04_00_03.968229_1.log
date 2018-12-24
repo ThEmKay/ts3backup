@@ -1,0 +1,5 @@
+2015-12-24 04:00:06.637159|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-12-24 13:47:26.998206|INFO    |VirtualServer |  1| client (id:571) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2015-12-24 23:50:45.745637|INFO    |VirtualServer |  1| client (id:573) was added to servergroup 'Male'(id:10) by client 'Jan'(id:8)
+2015-12-24 23:50:55.399329|INFO    |VirtualServer |  1| client (id:574) was added to servergroup 'Male'(id:10) by client 'Jan'(id:8)
+2015-12-25 04:00:01.841704|INFO    |VirtualServerBase|  1| stopped

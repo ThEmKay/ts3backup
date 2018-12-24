@@ -1,0 +1,13 @@
+﻿2016-10-03 03:00:08.825947|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-10-03 16:53:47.991557|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'Tschan'(id:524) to channel '- PVE'(id:59)
+2016-10-03 16:53:47.995033|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'Tschan'(id:524) to channel '- PVE'(id:59)
+2016-10-03 17:43:52.526528|INFO    |VirtualServer |1  |client (id:892) was added to servergroup 'Male'(id:10) by client 'Illgrathr'(id:480)
+2016-10-03 18:22:46.927746|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Jonny'(id:852) for client (id:852) and channel '┌ Team 1'(id:41)
+2016-10-03 18:22:59.765514|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Jonny'(id:852) for client (id:852) and channel '┌ Team 1'(id:41)
+2016-10-03 18:23:03.170196|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Jonny'(id:852) for client (id:852) and channel '┌ Team 1'(id:41)
+2016-10-03 18:23:09.060990|INFO    |VirtualServer |1  |client (id:852) was added to servergroup 'Female'(id:11) by client 'Jonny'(id:852)
+2016-10-03 18:23:17.718557|INFO    |VirtualServer |1  |client (id:852) was removed from servergroup 'Female'(id:11) by client 'Jonny'(id:852)
+2016-10-03 18:25:38.156824|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Jonny'(id:852) for client (id:852) and channel '┌ Team 1'(id:41)
+2016-10-03 18:25:50.825991|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Jonny'(id:852) for client (id:852) and channel '┌ Team 1'(id:41)
+2016-10-03 18:30:44.779633|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Jonny'(id:852) for client (id:852) and channel '┌ Team 1'(id:41)
+2016-10-04 03:00:01.369632|INFO    |VirtualServerBase|1  |stopped

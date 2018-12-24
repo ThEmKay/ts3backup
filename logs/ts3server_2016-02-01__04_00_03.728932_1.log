@@ -1,0 +1,9 @@
+2016-02-01 04:00:05.870408|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-02-01 18:45:48.602524|INFO    |VirtualServer |  1| client 'fizzy'(id:590) was added to channelgroup 'Voice'(id:7) by client 'Sinax'(id:8) in channel '&#9484; Trashtalk'(id:15)
+2016-02-01 18:45:53.287275|INFO    |VirtualServer |  1| client 'fizzy'(id:590) was added to channelgroup 'Guest'(id:8) by client 'Sinax'(id:8) in channel '&#9484; Trashtalk'(id:15)
+2016-02-01 18:47:55.761070|INFO    |VirtualServer |  1| client (id:498) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-01 18:48:27.847992|INFO    |VirtualServer |  1| client (id:590) was added to servergroup 'Male'(id:10) by client 'Max'(id:498)
+2016-02-01 18:48:48.316968|INFO    |VirtualServer |  1| client (id:498) was removed from servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-02-01 20:15:05.179231|INFO    |VirtualServer |  1| client (id:622) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-01 20:15:08.585012|INFO    |VirtualServer |  1| client (id:624) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:8)
+2016-02-02 04:00:02.018786|INFO    |VirtualServerBase|  1| stopped

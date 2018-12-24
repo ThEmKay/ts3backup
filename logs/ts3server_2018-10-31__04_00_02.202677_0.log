@@ -1,0 +1,22 @@
+﻿2018-10-31 04:00:02.202776|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.3.0 (2018-07-31 16:10:01)
+2018-10-31 04:00:02.202920|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2018-10-31 04:00:02.202948|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2018-10-31 04:00:02.203704|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-10-31 04:00:02.203737|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-10-31 04:00:02.203994|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-10-31 04:00:02.256033|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-10-31 04:00:02.256579|INFO    |Accounting    |   |Licensing Information
+2018-10-31 04:00:02.256729|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-10-31 04:00:02.256767|INFO    |Accounting    |   |type              : No License
+2018-10-31 04:00:02.256792|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-10-31 04:00:02.256810|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-10-31 04:00:02.256827|INFO    |Accounting    |   |max virtualservers: 1
+2018-10-31 04:00:02.256843|INFO    |Accounting    |   |max slots         : 32
+2018-10-31 04:00:02.366569|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-31 04:00:05.980770|INFO    |              |   |Puzzle precompute time: 3605
+2018-10-31 04:00:05.981240|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-10-31 04:00:06.050892|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-10-31 04:00:06.051025|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, 
+2018-11-01 00:00:02.248727|INFO    |VirtualSvrMgr |   |executing monthly interval
+2018-11-01 00:00:02.248963|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2018-11-01 04:00:01.112143|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

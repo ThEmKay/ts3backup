@@ -1,0 +1,4 @@
+2015-01-27 04:00:06.394049|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-01-27 16:12:20.075405|INFO    |VirtualServer |  1| client (id:46) was added to servergroup 'Male'(id:10) by client '&#12483;k1d'(id:4)
+2015-01-27 22:40:46.768247|INFO    |VirtualServer |  1| permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by '&#12483;k1d'(id:4) to channel '&#9492; How to Play - Channeinfo'(id:27)
+2015-01-28 04:00:01.935927|INFO    |VirtualServerBase|  1| stopped

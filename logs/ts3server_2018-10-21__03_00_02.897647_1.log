@@ -1,0 +1,16 @@
+﻿2018-10-21 03:00:06.964325|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-21 17:11:01.562491|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-10-21 17:19:27.592000|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2018-10-21 17:19:27.592077|INFO    |PktHandler    |1  |Dropping client 14 because of resend timeout
+2018-10-21 17:29:29.676350|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-10-21 17:46:17.422351|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
+2018-10-21 18:10:50.001354|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-10-21 19:08:12.285693|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2018-10-21 19:11:27.991528|INFO    |VirtualServer |1  |client (id:1728) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-10-21 19:11:35.068567|INFO    |VirtualServer |1  |client (id:1719) was added to servergroup 'Female'(id:11) by client 'Basti'(id:591)
+2018-10-21 19:11:48.953638|INFO    |VirtualServer |1  |client (id:1630) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-10-21 19:11:54.726079|INFO    |VirtualServer |1  |client (id:1691) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-10-21 19:12:22.461524|INFO    |VirtualServer |1  |client (id:1726) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-10-21 19:12:30.099057|INFO    |VirtualServer |1  |client (id:1721) was added to servergroup 'Female'(id:11) by client 'Basti'(id:591)
+2018-10-21 20:55:20.992226|INFO    |VirtualServer |1  |client (id:1727) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-10-22 03:00:01.416628|INFO    |VirtualServerBase|1  |stopped

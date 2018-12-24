@@ -1,0 +1,14 @@
+2015-05-20 03:00:05.845376|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-05-20 17:38:29.402521|INFO    |VirtualServer |  1| client 'Jan'(id:8) was added to channelgroup 'Operator'(id:6) by client 'PikaPika &#12484;'(id:6) in channel '&#9484; Trashtalk'(id:15)
+2015-05-20 17:38:41.996968|INFO    |VirtualServer |  1| client 'Jan'(id:8) was added to channelgroup 'Voice'(id:7) by client 'PikaPika &#12484;'(id:6) in channel '&#9484; Trashtalk'(id:15)
+2015-05-20 17:38:48.154843|INFO    |VirtualServer |  1| client 'Jan'(id:8) was added to channelgroup 'Guest'(id:8) by client 'PikaPika &#12484;'(id:6) in channel '&#9484; Trashtalk'(id:15)
+2015-05-20 17:38:58.162467|INFO    |VirtualServer |  1| client (id:8) was removed from servergroup 'Male'(id:10) by client 'PikaPika &#12484;'(id:6)
+2015-05-20 17:39:03.059430|INFO    |VirtualServer |  1| client (id:8) was added to servergroup 'Male'(id:10) by client 'PikaPika &#12484;'(id:6)
+2015-05-20 17:39:08.730350|INFO    |VirtualServer |  1| client 'Jan'(id:8) was added to channelgroup 'Channel Admin'(id:5) by client 'PikaPika &#12484;'(id:6) in channel '&#9484; Trashtalk'(id:15)
+2015-05-20 17:40:19.029557|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'PikaPika &#12484;'(id:6) for client (id:6) and channel '&#9484; Trashtalk'(id:15)
+2015-05-20 17:40:28.644161|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'PikaPika &#12484;'(id:6) for client (id:6) and channel '&#9484; Trashtalk'(id:15)
+2015-05-20 19:15:47.617201|INFO    |VirtualServer |  1| client (id:6) was removed from servergroup 'Offizier'(id:6) by client 'basti'(id:2)
+2015-05-20 19:15:54.509564|INFO    |VirtualServer |  1| client (id:6) was added to servergroup 'ServerAdmin'(id:9) by client 'basti'(id:2)
+2015-05-20 19:16:36.967422|INFO    |VirtualServer |  1| client (id:8) was added to servergroup 'Offizier'(id:6) by client 'PikaPika &#12484;11'(id:6)
+2015-05-20 19:16:40.580961|INFO    |VirtualServer |  1| client 'Jan'(id:8) was added to channelgroup 'Guest'(id:8) by client 'PikaPika &#12484;11'(id:6) in channel '&#9484; Trashtalk'(id:15)
+2015-05-21 03:00:01.542397|INFO    |VirtualServerBase|  1| stopped

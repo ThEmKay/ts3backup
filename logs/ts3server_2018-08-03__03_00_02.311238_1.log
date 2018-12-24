@@ -1,0 +1,4 @@
+﻿2018-08-03 03:00:06.846100|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-08-03 19:59:52.418951|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Sunny'(id:524) for client (id:524) and channel '٠••● Willkommen'(id:8)
+2018-08-03 19:59:56.123663|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Sunny'(id:524) for client (id:524) and channel '٠••● Willkommen'(id:8)
+2018-08-04 03:00:01.509014|INFO    |VirtualServerBase|1  |stopped

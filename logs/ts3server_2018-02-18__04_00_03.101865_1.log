@@ -1,0 +1,4 @@
+﻿2018-02-18 04:00:08.172129|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-18 18:33:07.423622|INFO    |VirtualServer |1  |client (id:1388) was added to servergroup 'Male'(id:10) by client 'basti'(id:651)
+2018-02-18 18:33:15.013792|INFO    |VirtualServer |1  |client (id:1389) was added to servergroup 'Female'(id:11) by client 'basti'(id:651)
+2018-02-19 04:00:01.613698|INFO    |VirtualServerBase|1  |stopped

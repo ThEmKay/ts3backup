@@ -1,0 +1,15 @@
+﻿2018-02-28 04:00:03.326674|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.3 (2016-03-04 08:31:20)
+2018-02-28 04:00:03.326816|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-48-pve #1 SMP Fri Dec 23 10:22:54 CET 2016 x86_64 Binary: 64bit
+2018-02-28 04:00:03.326857|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2018-02-28 04:00:03.327665|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2018-02-28 04:00:03.327700|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2018-02-28 04:00:03.327901|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-02-28 04:00:03.362474|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2018-02-28 04:00:09.169441|INFO    |              |   |Puzzle precompute time: 5628
+2018-02-28 04:00:09.169928|INFO    |FileManager   |   |listening on 0.0.0.0:30033
+2018-02-28 04:00:14.209408|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1, 
+2018-02-28 04:00:14.209868|INFO    |Query         |   |listening on 0.0.0.0:10011
+2018-03-01 00:00:03.462243|INFO    |VirtualSvrMgr |   |executing monthly interval
+2018-03-01 00:00:03.462515|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2018-03-01 01:26:40.916772|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: -3 (Temporary failure in name resolution) 11
+2018-03-01 04:00:01.553497|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

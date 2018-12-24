@@ -1,0 +1,4 @@
+﻿2018-02-25 04:00:07.186550|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-25 14:24:23.999014|INFO    |VirtualServer |1  |client (id:1389) was added to servergroup 'Male'(id:10) by client 'Hinata/FIL'(id:1341)
+2018-02-25 14:24:30.348855|INFO    |VirtualServer |1  |client (id:1389) was removed from servergroup 'Female'(id:11) by client 'Hinata/FIL'(id:1341)
+2018-02-26 04:00:01.416357|INFO    |VirtualServerBase|1  |stopped

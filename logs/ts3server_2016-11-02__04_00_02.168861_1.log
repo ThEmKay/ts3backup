@@ -1,0 +1,6 @@
+﻿2016-11-02 04:00:06.257200|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-11-02 17:37:30.788700|INFO    |VirtualServer |1  |client (id:855) was added to servergroup 'Female'(id:11) by client 'Tschan'(id:524)
+2016-11-02 17:38:25.917932|INFO    |VirtualServer |1  |client (id:916) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)
+2016-11-02 17:38:30.721361|INFO    |VirtualServer |1  |client (id:906) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)
+2016-11-02 20:33:04.242081|INFO    |VirtualServer |1  |client (id:921) was added to servergroup 'Male'(id:10) by client 'Jonny'(id:852)
+2016-11-03 04:00:01.773869|INFO    |VirtualServerBase|1  |stopped

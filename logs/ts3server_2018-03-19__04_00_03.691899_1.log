@@ -1,0 +1,3 @@
+﻿2018-03-19 04:00:08.803731|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-03-19 18:32:29.044333|INFO    |VirtualServer |1  |client (id:1429) was added to servergroup 'Male'(id:10) by client 'Basti'(id:651)
+2018-03-20 04:00:01.416317|INFO    |VirtualServerBase|1  |stopped

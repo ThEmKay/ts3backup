@@ -1,0 +1,6 @@
+﻿2018-12-01 04:00:07.074627|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-12-01 20:37:58.213178|INFO    |VirtualServer |1  |client (id:1795) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-12-01 20:39:50.514956|INFO    |VirtualServer |1  |client 'spootty'(id:1795) was added to channelgroup 'Channel Admin'(id:5) by client 'Paakai | Christian'(id:1299) in channel '║ Instanz I'(id:62)
+2018-12-01 20:39:59.291197|INFO    |VirtualServer |1  |client 'spootty'(id:1795) was added to channelgroup 'Operator'(id:6) by client 'Paakai | Christian'(id:1299) in channel '║ Instanz I'(id:62)
+2018-12-01 20:40:03.369319|INFO    |VirtualServer |1  |client 'spootty'(id:1795) was added to channelgroup 'Channel Admin'(id:5) by client 'Paakai | Christian'(id:1299) in channel '║ Instanz I'(id:62)
+2018-12-02 04:00:01.764756|INFO    |VirtualServerBase|1  |stopped

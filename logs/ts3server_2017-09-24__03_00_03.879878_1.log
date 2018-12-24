@@ -1,0 +1,8 @@
+﻿2017-09-24 03:00:08.177496|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-09-24 17:50:20.902842|INFO    |VirtualServer |1  |client (id:1187) was added to servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-09-24 18:41:03.060312|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'basti'(id:651) to channel '| Offiziersmesse'(id:60)
+2017-09-24 18:41:03.061467|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'basti'(id:651) to channel '| Offiziersmesse'(id:60)
+2017-09-24 18:44:27.771711|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'basti'(id:651) to channel '| Raid'(id:61)
+2017-09-24 18:44:27.773620|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:25) was added by 'basti'(id:651) to channel '| Raid'(id:61)
+2017-09-24 20:23:26.787079|INFO    |VirtualServer |1  |client (id:1170) was added to servergroup 'Male'(id:10) by client 'basti'(id:651)
+2017-09-25 03:00:01.935991|INFO    |VirtualServerBase|1  |stopped

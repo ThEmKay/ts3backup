@@ -1,0 +1,9 @@
+﻿2018-09-30 03:00:06.437310|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-09-30 14:43:17.052860|INFO    |VirtualServer |1  |client (id:1657) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-09-30 17:36:00.164111|INFO    |VirtualServer |1  |client (id:1575) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-09-30 17:36:04.826839|INFO    |VirtualServer |1  |client (id:1658) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-09-30 17:37:50.147498|INFO    |VirtualServer |1  |client (id:1639) was added to servergroup 'Female'(id:11) by client 'Basti'(id:591)
+2018-09-30 17:48:04.760610|INFO    |VirtualServer |1  |client (id:1659) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-09-30 18:18:59.385156|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-09-30 19:57:44.189525|INFO    |PktHandler    |1  |Dropping client 42 because of ping timeout 19 0 0
+2018-10-01 03:00:01.143317|INFO    |VirtualServerBase|1  |stopped

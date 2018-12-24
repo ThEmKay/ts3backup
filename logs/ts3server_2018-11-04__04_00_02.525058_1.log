@@ -1,0 +1,8 @@
+﻿2018-11-04 04:00:06.775599|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-11-04 10:59:16.032201|INFO    |VirtualServer |1  |client (id:1754) was added to servergroup 'Male'(id:10) by client 'ichnichtdu/stefan'(id:1184)
+2018-11-04 18:53:13.145789|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-11-04 18:55:51.444283|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2018-11-04 18:58:54.063275|INFO    |VirtualServer |1  |client (id:1746) was added to servergroup 'Female'(id:11) by client 'Basti'(id:591)
+2018-11-04 18:59:01.688955|INFO    |VirtualServer |1  |client (id:1756) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-11-04 18:59:09.489787|INFO    |VirtualServer |1  |client (id:1757) was added to servergroup 'Male'(id:10) by client 'Basti'(id:591)
+2018-11-05 04:00:01.260388|INFO    |VirtualServerBase|1  |stopped

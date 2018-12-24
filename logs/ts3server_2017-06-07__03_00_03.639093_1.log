@@ -1,0 +1,6 @@
+﻿2017-06-07 03:00:08.395309|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-06-07 19:56:22.439105|INFO    |VirtualServer |1  |client (id:373) was removed from servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-06-07 19:56:25.835430|INFO    |VirtualServer |1  |client (id:825) was removed from servergroup 'Male'(id:10) by client 'Sinax'(id:755)
+2017-06-07 19:57:12.567418|INFO    |VirtualServer |1  |client (id:373) was added to servergroup 'Female'(id:11) by client 'Sinax'(id:755)
+2017-06-07 19:57:16.103948|INFO    |VirtualServer |1  |client (id:825) was added to servergroup 'Female'(id:11) by client 'Sinax'(id:755)
+2017-06-08 03:00:01.261367|INFO    |VirtualServerBase|1  |stopped

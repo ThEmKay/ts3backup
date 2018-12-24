@@ -1,0 +1,4 @@
+﻿2018-05-20 03:00:06.393401|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-05-20 19:42:37.380912|INFO    |VirtualServer |1  |client (id:1502) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-05-20 20:54:19.359068|INFO    |VirtualServer |1  |client (id:1504) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-05-21 03:00:01.880495|INFO    |VirtualServerBase|1  |stopped

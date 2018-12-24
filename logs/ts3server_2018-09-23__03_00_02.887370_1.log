@@ -1,0 +1,7 @@
+﻿2018-09-23 03:00:07.178138|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-09-23 17:19:34.679370|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2018-09-23 17:19:34.679493|INFO    |PktHandler    |1  |Dropping client 8 because of resend timeout
+2018-09-23 19:08:30.565932|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2018-09-23 19:10:36.871155|INFO    |PktHandler    |1  |Dropping client 36 because of ping timeout 19 0 0
+2018-09-23 19:39:51.400473|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
+2018-09-24 03:00:01.460043|INFO    |VirtualServerBase|1  |stopped

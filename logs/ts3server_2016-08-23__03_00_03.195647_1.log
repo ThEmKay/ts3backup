@@ -1,0 +1,8 @@
+﻿2016-08-23 03:00:08.429876|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-08-23 18:04:46.065219|INFO    |VirtualServer |1  |client (id:671) was added to servergroup 'Male'(id:10) by client 'Tschan'(id:524)
+2016-08-23 20:34:57.709548|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:122) with values (value:75) was added by 'Tschan'(id:524) to channel '٠••● Nicer Dicer WG'(id:58)
+2016-08-23 20:34:57.710347|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:137) with values (value:75) was added by 'Tschan'(id:524) to channel '٠••● Nicer Dicer WG'(id:58)
+2016-08-23 20:36:34.935514|INFO    |VirtualServer |1  |client (id:493) was removed from servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-08-23 20:36:40.968926|INFO    |VirtualServer |1  |client 'Jonny'(id:493) was added to channelgroup 'Guest'(id:8) by client 'Tschan'(id:524) in channel '(̅_̅_̅(̅_̅_̅_̅_̅_̅_̅_̅̅()ڪے'(id:20)
+2016-08-23 20:37:07.867661|INFO    |VirtualServer |1  |client (id:493) was added to servergroup 'Offizier'(id:6) by client 'Tschan'(id:524)
+2016-08-24 03:00:01.329510|INFO    |VirtualServerBase|1  |stopped

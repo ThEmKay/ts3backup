@@ -1,0 +1,4 @@
+﻿2018-02-02 04:00:08.285883|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2018-02-02 14:36:47.412744|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'ichnichtdu/stefan'(id:1184) for client (id:1184) and channel '┌ Trashtalk'(id:53)
+2018-02-02 14:36:50.851478|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:177) was deleted by 'ichnichtdu/stefan'(id:1184) for client (id:1184) and channel '┌ Trashtalk'(id:53)
+2018-02-03 04:00:02.002039|INFO    |VirtualServerBase|1  |stopped

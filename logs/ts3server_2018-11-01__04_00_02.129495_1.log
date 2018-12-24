@@ -1,0 +1,7 @@
+﻿2018-11-01 04:00:05.997497|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-11-01 16:33:32.109161|INFO    |VirtualServer |1  |client (id:1752) was added to servergroup 'Male'(id:10) by client 'Illgrathr'(id:1533)
+2018-11-01 18:49:00.674113|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-11-01 23:59:13.832631|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:139) with values (value:25) was added by 'Paakai | Christian'(id:1299) to channel '║ Raid (40er)'(id:71)
+2018-11-01 23:59:39.763265|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:132) with values (value:75) was added by 'Paakai | Christian'(id:1299) to channel '║ Raid (40er)'(id:71)
+2018-11-01 23:59:39.763684|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:124) with values (value:75) was added by 'Paakai | Christian'(id:1299) to channel '║ Raid (40er)'(id:71)
+2018-11-02 04:00:01.867005|INFO    |VirtualServerBase|1  |stopped

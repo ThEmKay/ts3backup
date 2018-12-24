@@ -1,0 +1,8 @@
+﻿2018-11-07 04:00:06.542330|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-11-07 16:57:09.347570|INFO    |VirtualServer |1  |client (id:1761) was added to servergroup 'Female'(id:11) by client 'ichnichtdu/stefan'(id:1184)
+2018-11-07 16:57:16.355935|INFO    |VirtualServer |1  |client (id:1761) was added to servergroup 'Male'(id:10) by client 'ichnichtdu/stefan'(id:1184)
+2018-11-07 16:57:21.507737|INFO    |VirtualServer |1  |client (id:1761) was removed from servergroup 'Female'(id:11) by client 'ichnichtdu/stefan'(id:1184)
+2018-11-07 19:01:42.115331|INFO    |VirtualServer |1  |client (id:1763) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-07 19:02:05.517334|INFO    |VirtualServer |1  |client (id:1762) was added to servergroup 'Male'(id:10) by client 'Paakai | Christian'(id:1299)
+2018-11-07 19:02:42.923243|INFO    |VirtualServer |1  |client (id:1764) was added to servergroup 'Female'(id:11) by client 'Paakai | Christian'(id:1299)
+2018-11-08 04:00:01.658512|INFO    |VirtualServerBase|1  |stopped
